@@ -7,7 +7,8 @@ Given three distinct numbers A, B and C. Find the number with value in middle<b
  Example 1: <br/>
 Input: A = 978, B = 518, C = 300 <br/>
 Output: 518 <br/>
-Explanation: Since 518>300 and 518<978, so 518 is the middle element.  
+Explanation: Since 518>300 and 518<978, so 518 is the middle element.  <br/>
+
 SOLUTION   
 
     class Solution{ 
@@ -26,8 +27,8 @@ SOLUTION  
 Q2. Display longest name
 
 
-Given a list of names, display the longest name.
- Example:
+Given a list of names, display the longest name. <br/>
+ Example: <br/>
 Input: N = 5 names[] = { "Geek", "Geeks", "Geeksfor", "GeeksforGeek", "GeeksforGeeks" } <br/>
 Output: GeeksforGeeks
 
@@ -57,11 +58,13 @@ class Solution {
 Q3. Replace all 0's with 5
 
 
-You are given an integer N. You need to convert all zeroes of N to 5.
-Example 1:
+You are given an integer N. You need to convert all zeroes of N to 5. <br/>
+Example 1: <br/>
 Input: N = 1004 <br/>
 Output: 1554 <br/>
-Explanation: There are two zeroes in 1004 on replacing all zeroes with "5", the new number will be "1554".  SOLUTION:
+Explanation: There are two zeroes in 1004 on replacing all zeroes with "5", the new number will be "1554". <br/>
+
+SOLUTION:
 
  class Solution {
     
