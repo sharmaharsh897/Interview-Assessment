@@ -3,8 +3,8 @@
 Q1. Middle of Three 
 
 
-Given three distinct numbers A, B and C. Find the number with value in middle<br/> (Try to do it with minimum comparisons). 
- Example 1:
+Given three distinct numbers A, B and C. Find the number with value in middle<br/> (Try to do it with minimum comparisons). <br/>
+ Example 1: <br/>
 Input: A = 978, B = 518, C = 300 <br/>
 Output: 518 <br/>
 Explanation: Since 518>300 and 518<978, so 518 is the middle element.  
