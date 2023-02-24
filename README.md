@@ -5,9 +5,9 @@ Q1. Middle of Three <br/>
 BasicAccuracy: 54.8%Submissions: 64K+Points: 1 <br/>
 
 Given three distinct numbers A, B and C. Find the number with value in middle (Try to do it with minimum comparisons). <br/>
- Example 1:<br/>
+ Example 1:<br/><br/>
 Input: A = 978, B = 518, C = 300 Output: 518 Explanation: Since 518>300 and 518<978, so 518 is the middle element.  <br/>
-SOLUTION   <br/> class Solution{ <br/>
+SOLUTION   <br/><br/> class Solution{ <br/>
     middle(A, B, C){ <br/>
         //code here <br/>
         let arr=[] <br/>
