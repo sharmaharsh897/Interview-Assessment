@@ -9,15 +9,15 @@ Given three distinct numbers A, B and C. Find the number with value in middle (
 Input: A = 978, B = 518, C = 300 Output: 518 Explanation: Since 518>300 and 518<978, so 518 is the middle element.  <br/>
 SOLUTION   
 
-    class Solution{ <br/>
-    middle(A, B, C){ <br/>
-        //code here <br/>
-        let arr=[] <br/>
-        arr.push(A,B,C) <br/>
-        arr = arr.sort(function(a,b) {return a-b}) <br/>
-        return arr[1] <br/>
-    } <br/>
-}<br/>
+    class Solution{ 
+    middle(A, B, C){ 
+        //code here 
+        let arr=[] 
+        arr.push(A,B,C) 
+        arr = arr.sort(function(a,b) {return a-b}) 
+        return arr[1] 
+    } 
+}
 
 
 
