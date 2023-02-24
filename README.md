@@ -1,12 +1,11 @@
 # Interview-Assessment
 
-Q1. Middle of Three <br/>
+Q1. Middle of Three 
 
-BasicAccuracy: 54.8%Submissions: 64K+Points: 1 <br/>
 
-Given three distinct numbers A, B and C. Find the number with value in middle (Try to do it with minimum comparisons). <br/>
- Example 1:<br/><br/>
-Input: A = 978, B = 518, C = 300 Output: 518 Explanation: Since 518>300 and 518<978, so 518 is the middle element.  <br/>
+Given three distinct numbers A, B and C. Find the number with value in middle (Try to do it with minimum comparisons). 
+ Example 1:
+Input: A = 978, B = 518, C = 300 Output: 518 Explanation: Since 518>300 and 518<978, so 518 is the middle element.  
 SOLUTION   
 
     class Solution{ 
@@ -24,7 +23,6 @@ SOLUTION  
 
 Q2. Display longest name
 
-SchoolAccuracy: 66.29%Submissions: 48K+Points: 0
 
 Given a list of names, display the longest name.
  Example:
@@ -55,7 +53,6 @@ class Solution {
 
 Q3. Replace all 0's with 5
 
-BasicAccuracy: 75.55%Submissions: 62K+Points: 1
 
 You are given an integer N. You need to convert all zeroes of N to 5.
 Example 1:
